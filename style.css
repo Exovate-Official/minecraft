@@ -25,6 +25,7 @@ body{
     top: 90px;
     flex-direction: column;
     position: relative;
+    left: 275px;
 }
 
 h1{
